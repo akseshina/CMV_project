@@ -1,0 +1,787 @@
+sample_id	age	race	sex	cmv	hla
+HIP08653	52	caucasian,non-hispanic or latino	female	+	A*01,A*02,B*07,B*08
+HIP13276	53	caucasian,non-hispanic or latino	male	-	A*01,A*02,B*07,B*08
+HIP14114	57	caucasian,non-hispanic or latino	female	-	A*01,A*02,B*07,B*15
+HIP03370	41	caucasian,non-hispanic or latino	male	+	A*01,A*02,B*07,B*52
+HIP13015	39	caucasian,non-hispanic or latino	male	-	A*01,A*02,B*07,B*57
+HIP05815	NA	NA	male	+	A*01,A*02,B*07,B*61
+HIP09041	54	caucasian,non-hispanic or latino	female	-	A*01,A*02,B*08,B*08
+HIP13961	NA	NA	NA	NA	A*01,A*02,B*08,B*15
+HIP17534	55	caucasian,non-hispanic or latino	female	+	A*01,A*02,B*08,B*15
+HIP13956	53	caucasian,non-hispanic or latino	female	+	A*01,A*02,B*08,B*18
+HIP16515	33	caucasian,non-hispanic or latino	male	+	A*01,A*02,B*08,B*18
+HIP01947	NA	NA	female	+	A*01,A*02,B*08,B*27
+HIP04480	33	NA	female	-	A*01,A*02,B*08,B*27
+HIP13806	45	caucasian,non-hispanic or latino	male	-	A*01,A*02,B*08,B*27
+HIP14020	12	caucasian,non-hispanic or latino	male	-	A*01,A*02,B*08,B*27
+HIP13567	50	caucasian,non-hispanic or latino	female	-	A*01,A*02,B*08,B*35
+HIP14053	36	caucasian,non-hispanic or latino	female	+	A*01,A*02,B*08,B*39
+HIP08439	23	NA	female	-	A*01,A*02,B*08,B*40
+HIP14130	35	caucasian,non-hispanic or latino	male	-	A*01,A*02,B*08,B*40
+HIP05838	36	caucasian,non-hispanic or latino	female	-	A*01,A*02,B*08,B*44
+HIP13230	46	caucasian,non-hispanic or latino	female	+	A*01,A*02,B*08,B*44
+HIP13894	46	caucasian,non-hispanic or latino	female	+	A*01,A*02,B*08,B*44
+HIP13941	41	NA	female	-	A*01,A*02,B*08,B*44
+HIP14187	43	caucasian,non-hispanic or latino	female	+	A*01,A*02,B*08,B*44
+HIP17449	NA	caucasian,non-hispanic or latino	male	-	A*01,A*02,B*08,B*44
+HIP10358	32	caucasian,non-hispanic or latino	female	-	A*01,A*02,B*08,B*50
+HIP01393	25	NA	female	-	A*01,A*02,B*08,B*51
+HIP03597	39	caucasian,non-hispanic or latino	female	-	A*01,A*02,B*08,B*51
+HIP11857	51	caucasian,non-hispanic or latino	female	+	A*01,A*02,B*08,B*51
+HIP13233	29	caucasian,non-hispanic or latino	male	+	A*01,A*02,B*08,B*51
+HIP13945	51	caucasian,non-hispanic or latino	male	-	A*01,A*02,B*08,B*51
+HIP14110	42	caucasian,non-hispanic or latino	female	-	A*01,A*02,B*08,B*51
+HIP10730	65	caucasian,non-hispanic or latino	male	-	A*01,A*02,B*08,B*52
+HIP12743	64	caucasian,non-hispanic or latino	female	+	A*01,A*02,B*08,B*60
+HIP13198	49	caucasian,non-hispanic or latino	male	-	A*01,A*02,B*08,B*61
+HIP00997	29	NA	male	-	A*01,A*02,B*08,B*62
+HIP04527	54	caucasian,non-hispanic or latino	female	+	A*01,A*02,B*08,B*62
+HIP13325	42	caucasian,non-hispanic or latino	male	+	A*01,A*02,B*08,B*62
+HIP13789	63	non-hispanic or latino	female	+	A*01,A*02,B*08,B*62
+HIP13473	47	caucasian,non-hispanic or latino	female	-	A*01,A*02,B*08,B*70
+HIP13661	43	caucasian,non-hispanic or latino	female	-	A*01,A*02,B*13,B*62
+HIP13319	37	caucasian,non-hispanic or latino	male	-	A*01,A*02,B*14,B*57
+HIP10639	51	caucasian,non-hispanic or latino	male	-	A*01,A*02,B*18,B*44
+HIP08977	24	caucasian,non-hispanic or latino	male	-	A*01,A*02,B*18,B*57
+HIP00169	41	NA	male	-	A*01,A*02,B*27,B*37
+HIP15855	60	caucasian,non-hispanic or latino	male	-	A*01,A*02,B*35,B*44
+HIP08389	29	caucasian,non-hispanic or latino	male	-	A*01,A*02,B*35,B*60
+HIP13183	NA	NA	male	-	A*01,A*02,B*37,B*44
+HIP01232	54	NA	male	+	A*01,A*02,B*39,B*57
+HIP03184	59	caucasian,non-hispanic or latino	female	-	A*01,A*02,B*44,B*51
+HIP13265	NA	NA	male	-	A*01,A*02,B*44,B*52
+HIP19048	57	NA	female	-	A*01,A*02,B*51,B*57
+HIP01571	NA	NA	male	-	A*01,A*02,B*51,B*63
+HIP09253	52	caucasian,non-hispanic or latino	male	-	A*01,A*02,B*57,B*60
+HIP13396	56	caucasian,non-hispanic or latino	female	+	A*01,A*02,B*57,B*73
+HIP08339	19	caucasian,non-hispanic or latino	male	-	A*01,A*03,B*07,B*08
+HIP13209	39	caucasian,non-hispanic or latino	female	-	A*01,A*03,B*07,B*08
+HIP14066	26	caucasian,non-hispanic or latino	male	-	A*01,A*03,B*07,B*08
+HIP14183	57	caucasian,non-hispanic or latino	male	+	A*01,A*03,B*07,B*08
+HIP14136	42	caucasian,non-hispanic or latino	male	+	A*01,A*03,B*07,B*14
+HIP14103	43	caucasian,non-hispanic or latino	male	+	A*01,A*03,B*07,B*44
+HIP09284	NA	NA	female	-	A*01,A*03,B*07,B*51
+HIP14048	NA	NA	female	-	A*01,A*03,B*07,B*55
+HIP08890	NA	NA	female	+	A*01,A*03,B*07,B*57
+HIP13769	26	caucasian,non-hispanic or latino	male	-	A*01,A*03,B*07,B*57
+HIP13814	41	caucasian,non-hispanic or latino	female	+	A*01,A*03,B*07,B*57
+HIP14127	54	NA	male	-	A*01,A*03,B*08,B*15
+HIP08596	61	NA	female	+	A*01,A*03,B*08,B*18
+HIP10377	61	caucasian,non-hispanic or latino	female	+	A*01,A*03,B*08,B*35
+HIP13786	13	caucasian,non-hispanic or latino	male	-	A*01,A*03,B*08,B*35
+HIP13831	41	caucasian,non-hispanic or latino	female	+	A*01,A*03,B*08,B*35
+HIP13975	24	caucasian,non-hispanic or latino	female	+	A*01,A*03,B*08,B*35
+HIP14178	NA	NA	NA	NA	A*01,A*03,B*08,B*40
+HIP01004	NA	NA	female	-	A*01,A*03,B*08,B*44
+HIP05388	37	caucasian,non-hispanic or latino	male	-	A*01,A*03,B*08,B*49
+HIP02848	NA	NA	male	-	A*01,A*03,B*08,B*60
+HIP09022	47	caucasian,non-hispanic or latino	female	+	A*01,A*03,B*08,B*62
+HIP09097	46	NA	male	-	A*01,A*03,B*15,B*15
+HIP14036	46	caucasian,non-hispanic or latino	male	-	A*01,A*03,B*15,B*44
+HIP11784	34	asian or pacific islander,non-hispanic or latino	male	+	A*01,A*03,B*35,B*37
+HIP05460	50	caucasian,non-hispanic or latino	female	+	A*01,A*03,B*49,B*57
+HIP14494	2	caucasian,non-hispanic or latino	male	-	A*01,A*03,B*56,B*57
+HIP08725	26	NA	female	+	A*01,A*11,B*07,B*08
+HIP14206	41	caucasian,non-hispanic or latino	female	-	A*01,A*11,B*07,B*15
+HIP13720	NA	NA	male	-	A*01,A*11,B*07,B*35
+HIP00832	NA	NA	female	-	A*01,A*11,B*08,B*27
+HIP14024	58	caucasian,non-hispanic or latino	male	+	A*01,A*11,B*08,B*27
+HIP04545	44	caucasian,non-hispanic or latino	male	-	A*01,A*11,B*08,B*35
+HIP02875	NA	NA	male	-	A*01,A*11,B*08,B*55
+HIP09789	32	asian or pacific islander,non-hispanic or latino	female	+	A*01,A*11,B*13,B*37
+HIP03107	36	caucasian,non-hispanic or latino	male	-	A*01,A*11,B*17,B*62
+HIP09062	27	caucasian,non-hispanic or latino	female	+	A*01,A*11,B*27,B*57
+HIP04552	19	caucasian,non-hispanic or latino	female	-	A*01,A*11,B*35,B*58
+HIP04611	30	caucasian,non-hispanic or latino	male	-	A*01,A*11,B*37,B*37
+HIP14089	36	caucasian,non-hispanic or latino	male	-	A*01,A*23,B*49,B*58
+HIP01313	32	NA	male	-	A*01,A*24,B*07,B*08
+HIP14030	42	caucasian,non-hispanic or latino	male	-	A*01,A*24,B*07,B*08
+HIP13976	36	hispanic or latino	male	+	A*01,A*24,B*07,B*14
+HIP03228	8	caucasian,non-hispanic or latino	male	-	A*01,A*24,B*07,B*18
+HIP08521	39	caucasian,non-hispanic or latino	female	+	A*01,A*24,B*07,B*37
+HIP14214	60	caucasian,non-hispanic or latino	male	-	A*01,A*24,B*07,B*37
+HIP09118	NA	NA	male	-	A*01,A*24,B*07,B*62
+HIP12980	45	caucasian,non-hispanic or latino	male	+	A*01,A*24,B*08,B*18
+HIP14059	50	caucasian,non-hispanic or latino	female	-	A*01,A*24,B*08,B*27
+HIP02811	34	caucasian,non-hispanic or latino	female	-	A*01,A*24,B*08,B*35
+HIP03591	36	caucasian,non-hispanic or latino	male	-	A*01,A*24,B*08,B*35
+HIP04634	10	caucasian,non-hispanic or latino	female	+	A*01,A*24,B*08,B*38
+HIP05444	38	NA	female	-	A*01,A*24,B*08,B*44
+HIP13244	39	caucasian,non-hispanic or latino	male	-	A*01,A*24,B*08,B*44
+HIP13610	39	caucasian,non-hispanic or latino	male	+	A*01,A*24,B*08,B*44
+HIP03807	46	NA	female	+	A*01,A*24,B*08,B*51
+HIP03678	39	caucasian,non-hispanic or latino	female	-	A*01,A*24,B*08,B*62
+HIP13818	31	caucasian,non-hispanic or latino	male	+	A*01,A*24,B*18,B*35
+HIP03494	28	caucasian,non-hispanic or latino	female	-	A*01,A*24,B*18,B*37
+HIP04455	55	caucasian,non-hispanic or latino	male	+	A*01,A*24,B*35,B*38
+HIP12129	34	caucasian,non-hispanic or latino	male	-	A*01,A*24,B*35,B*39
+HIP13865	43	hispanic or latino	female	+	A*01,A*24,B*35,B*44
+HIP06191	30	NA	male	-	A*01,A*24,B*35,B*57
+HIP14060	48	caucasian,non-hispanic or latino	female	+	A*01,A*24,B*35,B*57
+HIP13983	49	caucasian,non-hispanic or latino	male	-	A*01,A*24,B*37,B*39
+HIP14217	41	caucasian,non-hispanic or latino	male	-	A*01,A*24,B*40,B*41
+HIP14844	NA	NA	NA	NA	A*01,A*24,B*44,B*57
+HIP13766	17	caucasian,non-hispanic or latino	male	-	A*01,A*24,B*53,B*62
+HIP05561	50	caucasian,non-hispanic or latino	male	-	A*01,A*25,B*08,B*08
+HIP13176	36	caucasian,non-hispanic or latino	female	+	A*01,A*25,B*08,B*18
+HIP14218	34	NA	male	-	A*01,A*25,B*08,B*18
+HIP03004	42	NA	female	-	A*01,A*25,B*08,B*44
+HIP13954	35	caucasian,non-hispanic or latino	male	+	A*01,A*25,B*08,B*44
+HIP13966	48	caucasian,non-hispanic or latino	female	-	A*01,A*25,B*44,B*49
+HIP04605	56	caucasian,non-hispanic or latino	male	+	A*01,A*26,B*08,B*22
+HIP01197	NA	NA	male	-	A*01,A*26,B*08,B*38
+HIP08345	NA	NA	male	-	A*01,A*26,B*08,B*38
+HIP13303	NA	NA	male	-	A*01,A*26,B*08,B*38
+HIP13996	44	caucasian,non-hispanic or latino	female	+	A*01,A*26,B*08,B*39
+HIP01181	NA	NA	male	+	A*01,A*26,B*08,B*61
+HIP13859	51	caucasian,non-hispanic or latino	male	-	A*01,A*26,B*38,B*57
+HIP02820	29	NA	female	-	A*01,A*26,B*38,B*58
+HIP02997	NA	NA	male	+	A*01,A*29,B*07,B*57
+HIP03812	NA	NA	male	-	A*01,A*29,B*08,B*44
+HIP03111	26	caucasian,non-hispanic or latino	male	-	A*01,A*29,B*08,B*51
+HIP02962	61	caucasian,non-hispanic or latino	female	+	A*01,A*29,B*45,B*62
+HIP05524	36	NA	male	-	A*01,A*30,B*08,B*13
+HIP10669	32	caucasian,non-hispanic or latino	male	+	A*01,A*30,B*08,B*13
+HIP01797	35	NA	male	-	A*01,A*30,B*08,B*57
+HIP01820	27	NA	male	-	A*01,A*30,B*13,B*44
+HIP04510	49	hispanic or latino	male	+	A*01,A*30,B*14,B*35
+HIP08507	46	NA	female	-	A*01,A*30,B*18,B*44
+HIP12088	58	NA	female	-	A*01,A*30,B*18,B*57
+HIP05377	39	caucasian,non-hispanic or latino	male	-	A*01,A*31,B*08,B*49
+HIP14016	45	hispanic or latino	female	+	A*01,A*31,B*14,B*73
+HIP13926	60	caucasian,non-hispanic or latino	female	+	A*01,A*31,B*35,B*35
+HIP02805	NA	NA	male	-	A*01,A*31,B*35,B*57
+HIP10787	41	caucasian,non-hispanic or latino	female	+	A*01,A*31,B*40,B*50
+HIP13463	17	caucasian,non-hispanic or latino	female	-	A*01,A*31,B*60,B*70
+HIP13363	32	caucasian,non-hispanic or latino	male	-	A*01,A*32,B*08,B*18
+HIP14143	NA	NA	NA	NA	A*01,A*32,B*08,B*35
+HIP00769	23	NA	female	-	A*01,A*32,B*08,B*44
+HIP01501	NA	NA	male	+	A*01,A*32,B*08,B*60
+HIP13833	30	asian or pacific islander,non-hispanic or latino	male	+	A*01,A*32,B*35,B*44
+HIP13794	36	caucasian,non-hispanic or latino	female	-	A*01,A*32,B*57,B*62
+HIP05757	42	NA	female	-	A*01,A*34,B*08,B*14
+HIP13822	48	caucasian,non-hispanic or latino	female	+	A*01,A*66,B*08,B*58
+HIP00775	39	caucasian,non-hispanic or latino	male	+	A*01,A*66,B*41,B*57
+HIP03378	60	caucasian,non-hispanic or latino	male	+	A*01,A*68,B*08,B*14
+HIP14034	52	caucasian,non-hispanic or latino	female	+	A*01,A*68,B*08,B*35
+HIP13869	25	NA	male	+	A*01,A*68,B*08,B*44
+HIP13284	11	caucasian,non-hispanic or latino	male	-	A*01,A*68,B*08,B*55
+HIP15860	NA	NA	NA	NA	A*01,A*68,B*14,B*57
+HIP12703	65	caucasian,non-hispanic or latino	male	+	A*01,A*68,B*18,B*47
+HIP13511	46	caucasian,non-hispanic or latino	male	-	A*01,A*68,B*18,B*52
+HIP14175	59	caucasian,non-hispanic or latino	male	+	A*01,A*68,B*18,B*56
+HIP19089	NA	NA	NA	NA	A*01,A*80,B*13,B*44
+HIP05832	54	caucasian,non-hispanic or latino	male	+	A*01,A*01,B*07,B*51
+HIP00779	30	caucasian,non-hispanic or latino	male	-	A*01,A*01,B*08,B*08
+HIP01470	30	NA	male	+	A*01,A*01,B*08,B*08
+HIP08702	NA	NA	male	+	A*01,A*01,B*08,B*08
+HIP11845	29	caucasian,non-hispanic or latino	female	-	A*01,A*01,B*08,B*08
+HIP19716	NA	NA	NA	NA	A*01,A*01,B*08,B*08
+HIP14064	61	caucasian,non-hispanic or latino	female	-	A*01,A*01,B*08,B*15
+HIP14240	23	caucasian,non-hispanic or latino	female	-	A*01,A*01,B*08,B*35
+HIP13978	28	caucasian,non-hispanic or latino	male	-	A*01,A*01,B*08,B*44
+HIP13256	65	caucasian,non-hispanic or latino	male	-	A*01,A*01,B*08,B*57
+HIP13554	57	NA	male	+	A*01,A*01,B*08,B*57
+HIP01805	NA	NA	female	-	A*01,A*01,B*13,B*35
+HIP13178	21	caucasian,non-hispanic or latino	female	-	A*01,A*01,B*14,B*37
+HIP19717	48	hispanic or latino	male	+	A*01,A*01,B*18,B*35
+HIP05559	21	caucasian,non-hispanic or latino	female	+	A*02,A*03,B*05,B*07
+HIP14202	22	caucasian,non-hispanic or latino	male	-	A*02,A*03,B*07,B*07
+HIP04509	26	caucasian,non-hispanic or latino	female	+	A*02,A*03,B*07,B*14
+HIP12091	47	NA	male	-	A*02,A*03,B*07,B*14
+HIP10716	61	caucasian,non-hispanic or latino	female	+	A*02,A*03,B*07,B*15
+HIP13981	44	caucasian,non-hispanic or latino	male	-	A*02,A*03,B*07,B*15
+HIP00710	32	NA	male	-	A*02,A*03,B*07,B*27
+HIP00777	22	NA	male	+	A*02,A*03,B*07,B*27
+HIP09020	58	caucasian,non-hispanic or latino	female	+	A*02,A*03,B*07,B*27
+HIP14174	60	caucasian,non-hispanic or latino	male	-	A*02,A*03,B*07,B*27
+HIP14194	46	caucasian,non-hispanic or latino	female	+	A*02,A*03,B*07,B*27
+HIP14007	23	caucasian,non-hispanic or latino	female	-	A*02,A*03,B*07,B*35
+HIP13967	47	asian or pacific islander,non-hispanic or latino	male	+	A*02,A*03,B*07,B*40
+HIP14039	32	NA	male	-	A*02,A*03,B*07,B*40
+HIP00805	55	NA	male	-	A*02,A*03,B*07,B*44
+HIP13122	41	caucasian,non-hispanic or latino	female	-	A*02,A*03,B*07,B*44
+HIP14015	60	caucasian,non-hispanic or latino	male	-	A*02,A*03,B*07,B*44
+HIP05941	25	caucasian,non-hispanic or latino	male	-	A*02,A*03,B*07,B*51
+HIP13986	53	caucasian,non-hispanic or latino	male	+	A*02,A*03,B*07,B*51
+HIP05665	33	caucasian,non-hispanic or latino	female	-	A*02,A*03,B*07,B*57
+HIP14109	54	caucasian,non-hispanic or latino	female	-	A*02,A*03,B*07,B*57
+HIP13228	NA	caucasian,non-hispanic or latino	male	-	A*02,A*03,B*07,B*61
+HIP01264	NA	NA	male	-	A*02,A*03,B*07,B*62
+HIP08986	34	caucasian,non-hispanic or latino	male	+	A*02,A*03,B*07,B*62
+HIP05551	48	caucasian,non-hispanic or latino	male	+	A*02,A*03,B*08,B*44
+HIP17698	43	caucasian,non-hispanic or latino	female	-	A*02,A*03,B*08,B*44
+HIP17845	34	NA	female	+	A*02,A*03,B*08,B*51
+HIP10568	49	caucasian,non-hispanic or latino	female	+	A*02,A*03,B*13,B*60
+HIP01795	NA	NA	female	-	A*02,A*03,B*14,B*44
+HIP09119	NA	NA	female	+	A*02,A*03,B*14,B*51
+HIP13944	NA	NA	NA	NA	A*02,A*03,B*18,B*44
+HIP05841	33	caucasian,non-hispanic or latino	male	+	A*02,A*03,B*27,B*44
+HIP02931	34	caucasian,non-hispanic or latino	male	-	A*02,A*03,B*27,B*51
+HIP03385	55	caucasian,non-hispanic or latino	male	-	A*02,A*03,B*27,B*60
+HIP02737	44	NA	male	-	A*02,A*03,B*35,B*38
+HIP13777	36	caucasian,non-hispanic or latino	male	-	A*02,A*03,B*35,B*41
+HIP00926	26	NA	male	-	A*02,A*03,B*35,B*51
+HIP01140	NA	NA	male	-	A*02,A*03,B*35,B*51
+HIP13252	NA	NA	female	-	A*02,A*03,B*35,B*60
+HIP10389	50	caucasian,non-hispanic or latino	male	-	A*02,A*03,B*37,B*51
+HIP10726	25	caucasian,non-hispanic or latino	female	-	A*02,A*03,B*44,B*52
+HIP08200	47	caucasian,non-hispanic or latino	male	-	A*02,A*03,B*44,B*62
+HIP08972	51	caucasian,non-hispanic or latino	male	-	A*02,A*03,B*51,B*56
+HIP08346	45	NA	male	-	A*02,A*03,B*51,B*60
+HIP01160	31	NA	male	-	A*02,A*03,B*51,B*62
+HIP10817	26	caucasian,non-hispanic or latino	male	+	A*02,A*03,B*60,B*62
+HIP13355	39	caucasian,non-hispanic or latino	male	+	A*02,A*03,B*62,B*62
+HIP05960	NA	NA	male	+	A*02,A*11,B*07,B*07
+HIP14051	48	caucasian,non-hispanic or latino	male	+	A*02,A*11,B*07,B*44
+HIP17577	51	caucasian,non-hispanic or latino	female	+	A*02,A*11,B*08,B*39
+HIP10815	NA	NA	male	-	A*02,A*11,B*14,B*35
+HIP03628	NA	NA	male	+	A*02,A*11,B*14,B*51
+HIP02742	NA	NA	male	-	A*02,A*11,B*18,B*62
+HIP00819	29	NA	male	-	A*02,A*11,B*27,B*44
+HIP14363	NA	NA	NA	NA	A*02,A*11,B*35,B*35
+HIP14106	37	caucasian,non-hispanic or latino	male	+	A*02,A*11,B*35,B*44
+HIP00602	45	NA	female	-	A*02,A*11,B*35,B*51
+HIP13920	40	hispanic or latino	female	-	A*02,A*11,B*39,B*57
+HIP13518	55	caucasian,non-hispanic or latino	female	+	A*02,A*11,B*44,B*44
+HIP13964	NA	NA	male	+	A*02,A*11,B*44,B*51
+HIP13949	47	caucasian,non-hispanic or latino	male	+	A*02,A*11,B*50,B*52
+HIP05574	9	caucasian,non-hispanic or latino	male	-	A*02,A*23,B*07,B*07
+HIP03511	48	caucasian,non-hispanic or latino	male	+	A*02,A*23,B*07,B*27
+HIP05590	49	caucasian,non-hispanic or latino	female	+	A*02,A*23,B*07,B*44
+HIP08816	37	NA	male	-	A*02,A*23,B*07,B*44
+HIP14227	45	caucasian,non-hispanic or latino	female	+	A*02,A*23,B*07,B*44
+HIP15854	30	caucasian,non-hispanic or latino	male	+	A*02,A*23,B*07,B*58
+HIP13796	41	caucasian,non-hispanic or latino	female	-	A*02,A*23,B*18,B*49
+HIP03695	29	caucasian,non-hispanic or latino	male	+	A*02,A*23,B*41,B*58
+HIP02873	NA	NA	female	+	A*02,A*23,B*44,B*60
+HIP00826	38	caucasian,non-hispanic or latino	male	-	A*02,A*23,B*49,B*62
+HIP10445	49	caucasian,non-hispanic or latino	female	-	A*02,A*23,B*51,B*63
+HIP13513	56	caucasian,non-hispanic or latino	male	+	A*02,A*24,B*07,B*35
+HIP11058	NA	NA	male	-	A*02,A*24,B*07,B*44
+HIP04532	25	caucasian,non-hispanic or latino	male	-	A*02,A*24,B*07,B*51
+HIP14041	52	caucasian,non-hispanic or latino	male	+	A*02,A*24,B*07,B*55
+HIP13935	49	caucasian,non-hispanic or latino	male	-	A*02,A*24,B*07,B*56
+HIP08236	23	caucasian,non-hispanic or latino	male	-	A*02,A*24,B*07,B*60
+HIP13757	34	caucasian,non-hispanic or latino	female	-	A*02,A*24,B*07,B*60
+HIP10424	37	NA	female	+	A*02,A*24,B*07,B*62
+HIP03685	42	NA	female	-	A*02,A*24,B*08,B*39
+HIP00924	37	NA	male	+	A*02,A*24,B*08,B*51
+HIP12533	48	caucasian,non-hispanic or latino	male	-	A*02,A*24,B*08,B*60
+HIP14156	NA	NA	NA	NA	A*02,A*24,B*15,B*44
+HIP02126	13	caucasian,non-hispanic or latino	female	+	A*02,A*24,B*15,B*55
+HIP04555	15	caucasian,non-hispanic or latino	female	+	A*02,A*24,B*18,B*44
+HIP12165	17	non-hispanic or latino	male	+	A*02,A*24,B*27,B*35
+HIP10823	35	NA	male	-	A*02,A*24,B*27,B*44
+HIP10820	32	NA	male	-	A*02,A*24,B*35,B*35
+HIP13771	52	caucasian,non-hispanic or latino	male	+	A*02,A*24,B*35,B*38
+HIP01255	NA	NA	male	+	A*02,A*24,B*35,B*39
+HIP09029	25	caucasian,non-hispanic or latino	female	-	A*02,A*24,B*35,B*44
+HIP08305	40	caucasian,non-hispanic or latino	male	+	A*02,A*24,B*35,B*62
+HIP05817	NA	NA	female	-	A*02,A*24,B*38,B*44
+HIP02947	39	NA	female	+	A*02,A*24,B*38,B*51
+HIP13782	62	asian or pacific islander,non-hispanic or latino	male	+	A*02,A*24,B*38,B*61
+HIP13142	46	caucasian,non-hispanic or latino	female	-	A*02,A*24,B*44,B*44
+HIP03381	42	caucasian,non-hispanic or latino	female	+	A*02,A*24,B*44,B*51
+HIP03732	47	NA	male	-	A*02,A*24,B*44,B*55
+HIP03099	38	NA	female	-	A*02,A*24,B*44,B*62
+HIP04511	NA	NA	male	+	A*02,A*24,B*44,B*62
+HIP03233	39	non-hispanic or latino	male	+	A*02,A*24,B*57,B*61
+HIP13887	55	caucasian,non-hispanic or latino	female	-	A*02,A*25,B*07,B*39
+HIP05390	45	caucasian,non-hispanic or latino	male	-	A*02,A*25,B*07,B*70
+HIP14129	39	caucasian,non-hispanic or latino	female	-	A*02,A*25,B*08,B*18
+HIP14134	NA	NA	NA	NA	A*02,A*25,B*18,B*39
+HIP14072	25	caucasian,non-hispanic or latino	male	-	A*02,A*25,B*18,B*51
+HIP01180	35	NA	female	-	A*02,A*25,B*18,B*62
+HIP12534	50	NA	female	+	A*02,A*25,B*44,B*51
+HIP01022	51	NA	male	-	A*02,A*26,B*07,B*39
+HIP01798	NA	NA	male	-	A*02,A*26,B*07,B*49
+HIP03720	38	NA	male	+	A*02,A*26,B*07,B*60
+HIP09430	23	asian or pacific islander,non-hispanic or latino	female	+	A*02,A*26,B*08,B*40
+HIP14079	10	caucasian,non-hispanic or latino	female	-	A*02,A*26,B*13,B*15
+HIP00985	53	caucasian,non-hispanic or latino	male	+	A*02,A*26,B*14,B*27
+HIP00999	NA	NA	male	-	A*02,A*26,B*14,B*44
+HIP13478	66	caucasian,non-hispanic or latino	male	+	A*02,A*26,B*27,B*35
+HIP14172	NA	NA	NA	NA	A*02,A*26,B*27,B*44
+HIP02090	14	caucasian,non-hispanic or latino	male	-	A*02,A*26,B*35,B*38
+HIP11758	35	asian or pacific islander,non-hispanic or latino	male	+	A*02,A*26,B*40,B*54
+HIP13710	NA	caucasian,non-hispanic or latino	female	-	A*02,A*26,B*50,B*52
+HIP13658	3	caucasian,non-hispanic or latino	male	-	A*02,A*26,B*50,B*63
+HIP10821	54	caucasian,non-hispanic or latino	male	-	A*02,A*26,B*55,B*55
+HIP09365	43	hispanic or latino	female	+	A*02,A*28,B*35,B*53
+HIP13903	43	caucasian,non-hispanic or latino	male	+	A*02,A*29,B*07,B*08
+HIP00771	35	caucasian,non-hispanic or latino	male	-	A*02,A*29,B*07,B*44
+HIP17887	NA	NA	NA	NA	A*02,A*29,B*07,B*44
+HIP04597	42	caucasian,non-hispanic or latino	female	-	A*02,A*29,B*07,B*60
+HIP01865	NA	NA	male	+	A*02,A*29,B*13,B*35
+HIP13193	NA	NA	male	-	A*02,A*29,B*14,B*45
+HIP01392	45	NA	female	-	A*02,A*29,B*18,B*44
+HIP14014	48	caucasian,non-hispanic or latino	male	-	A*02,A*29,B*40,B*44
+HIP05467	34	caucasian,non-hispanic or latino	female	+	A*02,A*29,B*44,B*44
+HIP13505	63	NA	male	-	A*02,A*29,B*44,B*44
+HIP13988	61	caucasian,non-hispanic or latino	male	+	A*02,A*29,B*44,B*44
+HIP13780	43	caucasian,non-hispanic or latino	male	-	A*02,A*29,B*44,B*45
+HIP13809	49	caucasian,non-hispanic or latino	male	+	A*02,A*29,B*44,B*51
+HIP09150	NA	NA	male	+	A*02,A*29,B*44,B*60
+HIP00707	NA	NA	male	+	A*02,A*29,B*44,B*62
+HIP13938	48	caucasian,non-hispanic or latino	male	+	A*02,A*29,B*45,B*50
+HIP01867	NA	NA	male	-	A*02,A*29,B*51,B*55
+HIP13206	NA	NA	female	-	A*02,A*30,B*07,B*13
+HIP04576	15	caucasian,non-hispanic or latino	male	-	A*02,A*30,B*07,B*18
+HIP13722	31	caucasian,non-hispanic or latino	male	-	A*02,A*30,B*07,B*41
+HIP14090	59	hispanic or latino	male	-	A*02,A*30,B*07,B*44
+HIP13916	NA	NA	male	-	A*02,A*30,B*13,B*15
+HIP13217	33	caucasian,non-hispanic or latino	male	+	A*02,A*30,B*13,B*44
+HIP10447	NA	hispanic or latino	male	-	A*02,A*30,B*13,B*60
+HIP01298	36	NA	male	NA	A*02,A*30,B*13,B*62
+HIP01850	33	NA	female	+	A*02,A*30,B*18,B*18
+HIP00898	39	NA	male	+	A*02,A*30,B*18,B*39
+HIP14192	49	caucasian,non-hispanic or latino	female	-	A*02,A*31,B*07,B*15
+HIP01582	NA	NA	female	-	A*02,A*31,B*07,B*27
+HIP14243	NA	NA	NA	NA	A*02,A*31,B*07,B*35
+HIP14213	60	caucasian,non-hispanic or latino	female	-	A*02,A*31,B*15,B*18
+HIP13932	42	caucasian,non-hispanic or latino	female	+	A*02,A*31,B*15,B*27
+HIP14223	44	asian or pacific islander,non-hispanic or latino	male	+	A*02,A*31,B*35,B*51
+HIP10545	33	caucasian,non-hispanic or latino	female	-	A*02,A*31,B*35,B*62
+HIP12123	40	caucasian,non-hispanic or latino	female	+	A*02,A*31,B*37,B*44
+HIP13803	49	caucasian,non-hispanic or latino	female	-	A*02,A*31,B*51,B*56
+HIP05563	66	caucasian,non-hispanic or latino	male	+	A*02,A*31,B*60,B*62
+HIP13311	31	caucasian,non-hispanic or latino	male	+	A*02,A*31,B*60,B*62
+HIP03592	34	caucasian,non-hispanic or latino	male	-	A*02,A*32,B*07,B*39
+HIP00594	21	caucasian,non-hispanic or latino	male	+	A*02,A*32,B*07,B*61
+HIP14148	21	caucasian,non-hispanic or latino	male	+	A*02,A*32,B*13,B*44
+HIP08710	NA	NA	male	-	A*02,A*32,B*14,B*27
+HIP10759	46	caucasian,non-hispanic or latino	female	-	A*02,A*32,B*15,B*35
+HIP14184	53	caucasian,non-hispanic or latino	female	-	A*02,A*32,B*15,B*35
+HIP14244	9	caucasian,non-hispanic or latino	female	+	A*02,A*32,B*15,B*42
+HIP09364	15	black or african american,non-hispanic or latino	male	+	A*02,A*32,B*18,B*53
+HIP13987	24	hispanic or latino	female	+	A*02,A*32,B*35,B*39
+HIP13449	72	caucasian,non-hispanic or latino	female	+	A*02,A*32,B*37,B*51
+HIP13871	41	caucasian,non-hispanic or latino	female	-	A*02,A*32,B*37,B*62
+HIP14118	59	caucasian,non-hispanic or latino	female	+	A*02,A*32,B*38,B*57
+HIP13296	34	caucasian,non-hispanic or latino	female	+	A*02,A*32,B*44,B*49
+HIP03383	NA	caucasian,non-hispanic or latino	male	-	A*02,A*32,B*44,B*51
+HIP01220	49	NA	male	+	A*02,A*32,B*44,B*60
+HIP12900	28	black or african american,non-hispanic or latino	male	+	A*02,A*33,B*07,B*15
+HIP01391	43	NA	male	-	A*02,A*33,B*14,B*44
+HIP02928	NA	NA	male	+	A*02,A*33,B*14,B*50
+HIP13928	60	asian or pacific islander,non-hispanic or latino	female	+	A*02,A*33,B*35,B*58
+HIP01223	27	NA	male	+	A*02,A*34,B*14,B*44
+HIP13923	50	asian or pacific islander,non-hispanic or latino	female	+	A*02,A*34,B*15,B*38
+HIP13168	NA	NA	female	-	A*02,A*66,B*41,B*44
+HIP11937	55	black or african american,non-hispanic or latino	female	+	A*02,A*68,B*07,B*08
+HIP14095	55	caucasian,non-hispanic or latino	female	-	A*02,A*68,B*07,B*14
+HIP13294	39	caucasian,non-hispanic or latino	male	-	A*02,A*68,B*08,B*44
+HIP13847	NA	NA	male	-	A*02,A*68,B*13,B*51
+HIP13939	44	caucasian,non-hispanic or latino	female	+	A*02,A*68,B*14,B*15
+HIP13306	30	hispanic or latino	male	+	A*02,A*68,B*14,B*49
+HIP13911	22	caucasian,non-hispanic or latino	male	+	A*02,A*68,B*15,B*38
+HIP00640	37	NA	female	-	A*02,A*68,B*27,B*44
+HIP03630	46	non-hispanic or latino	male	+	A*02,A*68,B*27,B*61
+HIP14045	74	caucasian,non-hispanic or latino	female	+	A*02,A*68,B*35,B*51
+HIP14221	67	caucasian,non-hispanic or latino	female	+	A*02,A*68,B*35,B*51
+HIP10514	34	caucasian,non-hispanic or latino	male	-	A*02,A*68,B*35,B*60
+HIP14152	48	hispanic or latino	male	+	A*02,A*68,B*39,B*52
+HIP12099	18	non-hispanic or latino	male	+	A*02,A*68,B*44,B*60
+HIP05311	48	black or african american,non-hispanic or latino	female	+	A*02,A*74,B*53,B*70
+HIP14096	42	caucasian,non-hispanic or latino	female	+	A*02,A*80,B*15,B*58
+HIP14157	23	caucasian,non-hispanic or latino	male	+	A*02,A*02,B*07,B*14
+HIP02112	6	caucasian,non-hispanic or latino	female	-	A*02,A*02,B*07,B*15
+HIP17793	NA	NA	NA	NA	A*02,A*02,B*07,B*35
+HIP13994	64	caucasian,non-hispanic or latino	male	+	A*02,A*02,B*07,B*44
+HIP14080	28	caucasian,non-hispanic or latino	male	-	A*02,A*02,B*07,B*51
+HIP03484	46	caucasian,non-hispanic or latino	male	-	A*02,A*02,B*07,B*58
+HIP02855	NA	NA	female	-	A*02,A*02,B*07,B*60
+HIP03505	49	NA	male	-	A*02,A*02,B*08,B*60
+HIP05533	22	caucasian,non-hispanic or latino	female	-	A*02,A*02,B*14,B*44
+HIP13857	38	NA	female	-	A*02,A*02,B*14,B*57
+HIP14361	NA	NA	female	+	A*02,A*02,B*15,B*39
+HIP14092	27	non-hispanic or latino	female	+	A*02,A*02,B*15,B*40
+HIP13291	34	caucasian,non-hispanic or latino	female	+	A*02,A*02,B*18,B*27
+HIP17723	39	hispanic or latino	female	+	A*02,A*02,B*18,B*39
+HIP01359	37	NA	female	-	A*02,A*02,B*18,B*44
+HIP14181	52	caucasian,non-hispanic or latino	female	+	A*02,A*02,B*27,B*27
+HIP13972	28	non-hispanic or latino	male	-	A*02,A*02,B*27,B*39
+HIP00728	NA	NA	female	-	A*02,A*02,B*27,B*51
+HIP08400	45	caucasian,non-hispanic or latino	female	+	A*02,A*02,B*27,B*57
+HIP00904	39	NA	female	-	A*02,A*02,B*27,B*61
+HIP03618	62	caucasian,non-hispanic or latino	male	+	A*02,A*02,B*35,B*44
+HIP09235	51	caucasian,non-hispanic or latino	male	+	A*02,A*02,B*35,B*44
+HIP14237	39	NA	male	-	A*02,A*02,B*35,B*44
+HIP13636	46	caucasian,non-hispanic or latino	female	+	A*02,A*02,B*35,B*51
+HIP17657	NA	NA	NA	NA	A*02,A*02,B*40,B*51
+HIP00734	32	NA	female	-	A*02,A*02,B*41,B*44
+HIP05948	35	caucasian,non-hispanic or latino	female	-	A*02,A*02,B*41,B*60
+HIP01856	NA	NA	male	+	A*02,A*02,B*44,B*44
+HIP14043	34	caucasian,non-hispanic or latino	female	-	A*02,A*02,B*44,B*44
+HIP13360	44	caucasian,non-hispanic or latino	female	+	A*02,A*02,B*44,B*49
+HIP13185	34	caucasian,non-hispanic or latino	male	-	A*02,A*02,B*44,B*51
+HIP05535	25	caucasian,non-hispanic or latino	female	+	A*02,A*02,B*44,B*57
+HIP13654	21	caucasian,non-hispanic or latino	female	+	A*02,A*02,B*44,B*57
+HIP09001	8	caucasian,non-hispanic or latino	female	-	A*02,A*02,B*44,B*61
+HIP13465	40	caucasian,non-hispanic or latino	male	-	A*02,A*02,B*44,B*62
+HIP11717	71	NA	male	+	A*02,A*02,B*48,B*54
+HIP00813	32	caucasian,non-hispanic or latino	male	+	A*02,A*02,B*51,B*51
+HIP04958	25	caucasian,non-hispanic or latino	male	-	A*02,A*02,B*51,B*60
+HIP03495	62	caucasian,non-hispanic or latino	female	+	A*02,A*02,B*62,B*62
+HIP00934	NA	NA	female	-	A*03,A*11,B*07,B*35
+HIP13324	55	caucasian,non-hispanic or latino	female	+	A*03,A*11,B*07,B*35
+HIP08888	46	NA	female	-	A*03,A*11,B*07,B*52
+HIP03275	54	caucasian,non-hispanic or latino	female	+	A*03,A*11,B*07,B*55
+HIP05942	34	caucasian,non-hispanic or latino	female	+	A*03,A*11,B*08,B*08
+HIP09681	32	hispanic or latino	female	+	A*03,A*11,B*18,B*35
+HIP13962	42	caucasian,non-hispanic or latino	male	+	A*03,A*23,B*07,B*08
+HIP13251	40	caucasian,non-hispanic or latino	male	-	A*03,A*23,B*07,B*49
+HIP10376	35	caucasian,non-hispanic or latino	female	-	A*03,A*23,B*35,B*44
+HIP00110	55	NA	male	-	A*03,A*24,B*07,B*07
+HIP04578	42	caucasian,non-hispanic or latino	male	+	A*03,A*24,B*07,B*07
+HIP05540	21	NA	male	-	A*03,A*24,B*07,B*07
+HIP14236	56	caucasian,non-hispanic or latino	male	+	A*03,A*24,B*07,B*15
+HIP13746	35	NA	female	-	A*03,A*24,B*07,B*35
+HIP01870	46	NA	male	-	A*03,A*24,B*07,B*37
+HIP03651	38	caucasian,non-hispanic or latino	female	-	A*03,A*24,B*07,B*44
+HIP08399	47	caucasian,non-hispanic or latino	male	-	A*03,A*24,B*07,B*49
+HIP00773	1	hispanic or latino	female	-	A*03,A*24,B*08,B*61
+HIP04498	42	hispanic or latino	female	-	A*03,A*24,B*14,B*41
+HIP09624	22	hispanic or latino	female	+	A*03,A*24,B*15,B*18
+HIP14231	45	caucasian,non-hispanic or latino	female	+	A*03,A*24,B*15,B*35
+HIP00951	NA	NA	female	+	A*03,A*24,B*18,B*39
+HIP13414	48	caucasian,non-hispanic or latino	female	+	A*03,A*24,B*35,B*35
+HIP07754	32	NA	female	-	A*03,A*24,B*35,B*40
+HIP13383	44	caucasian,non-hispanic or latino	male	-	A*03,A*24,B*35,B*44
+HIP01206	40	NA	female	-	A*03,A*24,B*39,B*51
+HIP16738	NA	NA	NA	NA	A*03,A*25,B*07,B*18
+HIP08223	NA	caucasian,non-hispanic or latino	female	-	A*03,A*25,B*14,B*18
+HIP13370	65	caucasian,non-hispanic or latino	female	-	A*03,A*26,B*07,B*07
+HIP08989	50	caucasian,non-hispanic or latino	male	-	A*03,A*26,B*07,B*44
+HIP14140	34	NA	male	-	A*03,A*26,B*18,B*55
+HIP13902	56	caucasian,non-hispanic or latino	male	+	A*03,A*26,B*35,B*56
+HIP13427	42	caucasian,non-hispanic or latino	male	+	A*03,A*26,B*38,B*44
+HIP02734	24	NA	female	-	A*03,A*26,B*56,B*62
+HIP00614	27	caucasian,non-hispanic or latino	male	-	A*03,A*29,B*07,B*07
+HIP13214	43	caucasian,non-hispanic or latino	female	+	A*03,A*29,B*07,B*27
+HIP09366	22	NA	female	+	A*03,A*29,B*07,B*44
+HIP10443	55	NA	female	+	A*03,A*29,B*07,B*44
+HIP14234	NA	NA	NA	NA	A*03,A*29,B*07,B*44
+HIP13989	70	caucasian,non-hispanic or latino	male	-	A*03,A*29,B*40,B*44
+HIP13695	46	caucasian,non-hispanic or latino	female	-	A*03,A*29,B*60,B*62
+HIP13402	NA	NA	female	-	A*03,A*30,B*07,B*13
+HIP00822	38	NA	female	-	A*03,A*30,B*07,B*18
+HIP04471	27	NA	female	-	A*03,A*30,B*13,B*35
+HIP05578	29	caucasian,non-hispanic or latino	female	-	A*03,A*30,B*14,B*51
+HIP13880	49	caucasian,non-hispanic or latino	female	+	A*03,A*30,B*18,B*35
+HIP08598	40	NA	male	+	A*03,A*31,B*07,B*08
+HIP13263	40	caucasian,non-hispanic or latino	female	-	A*03,A*31,B*07,B*27
+HIP13749	22	caucasian,non-hispanic or latino	female	-	A*03,A*31,B*15,B*35
+HIP03693	32	NA	female	-	A*03,A*31,B*51,B*60
+HIP10814	NA	NA	male	+	A*03,A*32,B*07,B*35
+HIP13856	23	caucasian,non-hispanic or latino	male	+	A*03,A*32,B*07,B*35
+HIP14211	23	NA	female	-	A*03,A*33,B*07,B*14
+HIP14077	25	NA	male	-	A*03,A*33,B*07,B*50
+HIP09051	51	NA	female	+	A*03,A*33,B*07,B*51
+HIP13929	53	caucasian,non-hispanic or latino	female	-	A*03,A*33,B*14,B*35
+HIP13671	47	caucasian,non-hispanic or latino	female	+	A*03,A*33,B*14,B*44
+HIP13227	31	caucasian,non-hispanic or latino	female	+	A*03,A*33,B*14,B*45
+HIP17737	NA	NA	NA	NA	A*03,A*33,B*15,B*15
+HIP14230	62	caucasian,non-hispanic or latino	female	-	A*03,A*33,B*15,B*35
+HIP13852	62	caucasian,non-hispanic or latino	female	+	A*03,A*66,B*35,B*41
+HIP13800	66	caucasian,non-hispanic or latino	male	+	A*03,A*68,B*07,B*08
+HIP14071	45	caucasian,non-hispanic or latino	female	+	A*03,A*68,B*07,B*13
+HIP13951	5	caucasian,non-hispanic or latino	female	+	A*03,A*68,B*07,B*35
+HIP17457	51	caucasian,non-hispanic or latino	female	-	A*03,A*68,B*35,B*51
+HIP09026	39	black or african american,non-hispanic or latino	male	+	A*03,A*68,B*41,B*58
+HIP13860	35	caucasian,non-hispanic or latino	male	-	A*03,A*68,B*44,B*44
+HIP08337	50	hispanic or latino	female	+	A*03,A*68,B*49,B*63
+HIP14196	63	caucasian,non-hispanic or latino	male	-	A*03,A*03,B*07,B*07
+HIP01162	NA	NA	male	-	A*03,A*03,B*07,B*08
+HIP14176	32	NA	male	-	A*03,A*03,B*07,B*08
+HIP14124	37	caucasian,non-hispanic or latino	female	+	A*03,A*03,B*07,B*50
+HIP05398	18	caucasian,non-hispanic or latino	male	-	A*03,A*03,B*07,B*51
+HIP13318	NA	NA	female	+	A*03,A*03,B*14,B*14
+HIP00869	NA	NA	female	-	A*03,A*03,B*18,B*35
+HIP05409	16	caucasian,non-hispanic or latino	male	-	A*03,A*03,B*35,B*35
+HIP05434	36	caucasian,non-hispanic or latino	male	+	A*03,A*03,B*35,B*35
+HIP13875	49	caucasian,non-hispanic or latino	male	+	A*03,A*03,B*35,B*60
+HIP10480	11	NA	female	+	A*03,A*03,B*50,B*55
+HIP17462	47	asian or pacific islander,non-hispanic or latino	male	+	A*11,A*24,B*07,B*08
+HIP13497	51	caucasian,non-hispanic or latino	male	-	A*11,A*24,B*39,B*62
+HIP14055	57	caucasian,non-hispanic or latino	female	-	A*11,A*24,B*40,B*51
+HIP11989	57	caucasian,non-hispanic or latino	male	+	A*11,A*24,B*44,B*51
+HIP13760	NA	NA	male	-	A*11,A*24,B*44,B*55
+HIP12143	42	caucasian,non-hispanic or latino	male	-	A*11,A*25,B*18,B*44
+HIP00825	10	caucasian,non-hispanic or latino	female	-	A*11,A*25,B*27,B*58
+HIP17445	45	caucasian,non-hispanic or latino	male	-	A*11,A*26,B*07,B*38
+HIP09046	43	caucasian,non-hispanic or latino	male	-	A*11,A*26,B*35,B*38
+HIP05437	28	caucasian,non-hispanic or latino	male	+	A*11,A*26,B*35,B*62
+HIP14209	60	caucasian,non-hispanic or latino	female	-	A*11,A*26,B*38,B*40
+HIP09122	NA	NA	female	+	A*11,A*26,B*48,B*75
+HIP13703	49	caucasian,non-hispanic or latino	female	+	A*11,A*29,B*07,B*44
+HIP13686	52	NA	male	-	A*11,A*29,B*13,B*35
+HIP13919	46	caucasian,non-hispanic or latino	female	+	A*11,A*29,B*15,B*18
+HIP14074	57	caucasian,non-hispanic or latino	male	-	A*11,A*29,B*27,B*51
+HIP13625	23	hispanic or latino	female	-	A*11,A*30,B*13,B*35
+HIP02078	27	NA	male	+	A*11,A*30,B*35,B*39
+HIP02103	10	caucasian,non-hispanic or latino	male	-	A*11,A*31,B*07,B*07
+HIP09190	NA	NA	female	+	A*11,A*31,B*07,B*51
+HIP13900	51	asian or pacific islander,non-hispanic or latino	female	+	A*11,A*31,B*13,B*51
+HIP14121	49	caucasian,non-hispanic or latino	male	-	A*11,A*31,B*35,B*35
+HIP14911	42	caucasian,non-hispanic or latino	male	-	A*11,A*32,B*07,B*15
+HIP14138	NA	NA	NA	NA	A*11,A*32,B*27,B*35
+HIP09559	27	asian or pacific islander,non-hispanic or latino	female	-	A*11,A*33,B*35,B*58
+HIP09775	37	asian or pacific islander,non-hispanic or latino	male	+	A*11,A*34,B*15,B*38
+HIP13992	20	hispanic or latino	male	+	A*11,A*36,B*35,B*37
+HIP13274	36	caucasian,non-hispanic or latino	female	-	A*11,A*11,B*08,B*14
+HIP01266	32	NA	male	-	A*11,A*11,B*35,B*55
+HIP08711	NA	NA	female	-	A*23,A*24,B*07,B*07
+HIP14160	NA	NA	NA	NA	A*23,A*24,B*15,B*44
+HIP10746	14	caucasian,non-hispanic or latino	male	-	A*23,A*25,B*07,B*44
+HIP14009	71	caucasian,non-hispanic or latino	female	+	A*23,A*26,B*18,B*44
+HIP13350	36	caucasian,non-hispanic or latino	male	-	A*23,A*29,B*07,B*38
+HIP17837	28	caucasian,non-hispanic or latino	male	+	A*23,A*30,B*44,B*53
+HIP08076	NA	NA	female	-	A*23,A*32,B*35,B*49
+HIP13893	33	caucasian,non-hispanic or latino	female	-	A*23,A*32,B*44,B*51
+HIP05595	32	caucasian,non-hispanic or latino	male	+	A*23,A*68,B*13,B*51
+HIP14153	60	caucasian,non-hispanic or latino	female	-	A*23,A*68,B*40,B*44
+HIP13361	20	hispanic or latino	female	+	A*23,A*68,B*48,B*49
+HIP01465	NA	NA	female	+	A*23,A*23,B*44,B*49
+HIP13627	53	caucasian,non-hispanic or latino	female	+	A*24,A*25,B*08,B*18
+HIP14028	55	caucasian,non-hispanic or latino	male	-	A*24,A*25,B*08,B*18
+HIP14226	51	caucasian,non-hispanic or latino	male	-	A*24,A*25,B*18,B*50
+HIP13489	44	caucasian,non-hispanic or latino	female	+	A*24,A*25,B*18,B*51
+HIP05763	41	NA	male	-	A*24,A*26,B*07,B*07
+HIP00851	34	caucasian,non-hispanic or latino	female	+	A*24,A*26,B*07,B*44
+HIP17370	44	NA	female	+	A*24,A*26,B*07,B*61
+HIP10694	42	caucasian,non-hispanic or latino	female	-	A*24,A*26,B*08,B*57
+HIP12538	24	caucasian,non-hispanic or latino	male	-	A*24,A*26,B*35,B*38
+HIP10564	45	caucasian,non-hispanic or latino	female	-	A*24,A*26,B*38,B*48
+HIP02663	NA	NA	male	+	A*24,A*29,B*07,B*44
+HIP01218	NA	NA	male	-	A*24,A*29,B*07,B*62
+HIP01055	29	NA	female	-	A*24,A*29,B*39,B*44
+HIP17585	58	caucasian,non-hispanic or latino	female	-	A*24,A*29,B*44,B*57
+HIP08230	35	NA	female	-	A*24,A*29,B*44,B*62
+HIP01499	NA	NA	female	-	A*24,A*30,B*07,B*51
+HIP01129	NA	NA	female	-	A*24,A*30,B*13,B*51
+HIP13773	22	non-hispanic or latino	female	+	A*24,A*30,B*13,B*61
+HIP05405	40	caucasian,non-hispanic or latino	male	+	A*24,A*30,B*18,B*18
+HIP03502	42	caucasian,non-hispanic or latino	male	-	A*24,A*30,B*38,B*38
+HIP13958	36	caucasian,non-hispanic or latino	male	-	A*24,A*31,B*08,B*40
+HIP03236	23	caucasian,non-hispanic or latino	female	-	A*24,A*31,B*18,B*60
+HIP13667	54	NA	male	+	A*24,A*31,B*27,B*27
+HIP09344	35	non-hispanic or latino	female	-	A*24,A*31,B*35,B*48
+HIP05934	33	caucasian,non-hispanic or latino	male	-	A*24,A*32,B*08,B*39
+HIP14037	NA	NA	male	-	A*24,A*32,B*08,B*44
+HIP14142	22	NA	female	+	A*24,A*32,B*35,B*44
+HIP13352	43	caucasian,non-hispanic or latino	female	+	A*24,A*32,B*35,B*62
+HIP15685	55	caucasian,non-hispanic or latino	male	+	A*24,A*32,B*38,B*44
+HIP14170	NA	NA	NA	NA	A*24,A*32,B*40,B*44
+HIP09159	36	NA	female	-	A*24,A*32,B*44,B*62
+HIP05455	31	NA	male	+	A*24,A*33,B*05,B*14
+HIP03677	7	caucasian,non-hispanic or latino	female	+	A*24,A*33,B*58,B*63
+HIP11513	9	asian or pacific islander,non-hispanic or latino	female	+	A*24,A*34,B*15,B*40
+HIP05552	53	caucasian,non-hispanic or latino	female	-	A*24,A*68,B*08,B*44
+HIP17760	56	black or african american,non-hispanic or latino	male	+	A*24,A*68,B*15,B*27
+HIP10408	53	caucasian,non-hispanic or latino	female	+	A*24,A*68,B*18,B*35
+HIP05331	42	NA	female	+	A*24,A*68,B*18,B*44
+HIP02024	51	NA	male	+	A*24,A*68,B*51,B*55
+HIP16867	47	NA	male	+	A*24,A*24,B*07,B*35
+HIP12034	2	caucasian,non-hispanic or latino	female	-	A*24,A*24,B*07,B*51
+HIP14018	55	caucasian,non-hispanic or latino	male	-	A*24,A*24,B*15,B*40
+HIP11649	47	asian or pacific islander,non-hispanic or latino	female	+	A*24,A*24,B*35,B*38
+HIP11613	61	asian or pacific islander,non-hispanic or latino	female	+	A*24,A*24,B*38,B*40
+HIP14238	NA	NA	NA	NA	A*24,A*24,B*40,B*44
+HIP14241	15	caucasian,non-hispanic or latino	male	-	A*24,A*24,B*44,B*51
+HIP11711	35	NA	male	+	A*24,A*24,B*51,B*51
+HIP12527	46	caucasian,non-hispanic or latino	male	-	A*25,A*29,B*38,B*44
+HIP15861	55	caucasian,non-hispanic or latino	male	+	A*25,A*29,B*44,B*58
+HIP13309	33	caucasian,non-hispanic or latino	female	+	A*25,A*33,B*08,B*35
+HIP14004	34	caucasian,non-hispanic or latino	male	-	A*25,A*68,B*08,B*40
+HIP04464	17	hispanic or latino	female	+	A*26,A*28,B*38,B*61
+HIP10846	NA	NA	NA	NA	A*26,A*29,B*35,B*51
+HIP13947	48	NA	female	-	A*26,A*29,B*38,B*44
+HIP13220	NA	NA	male	+	A*26,A*30,B*13,B*35
+HIP11518	42	hispanic or latino	female	+	A*26,A*31,B*35,B*38
+HIP02877	42	NA	male	-	A*26,A*33,B*14,B*35
+HIP11774	66	asian or pacific islander,non-hispanic or latino	female	+	A*26,A*33,B*35,B*51
+HIP11553	8	asian or pacific islander,non-hispanic or latino	male	-	A*26,A*34,B*38,B*38
+HIP13933	36	caucasian,non-hispanic or latino	female	-	A*26,A*68,B*15,B*38
+HIP13853	7	caucasian,non-hispanic or latino	male	-	A*26,A*68,B*27,B*44
+HIP01384	NA	NA	male	+	A*29,A*30,B*13,B*45
+HIP08821	55	caucasian,non-hispanic or latino	female	+	A*29,A*30,B*13,B*57
+HIP08792	51	caucasian,non-hispanic or latino	male	+	A*29,A*31,B*07,B*44
+HIP13592	52	caucasian,non-hispanic or latino	male	-	A*29,A*31,B*27,B*44
+HIP00838	26	hispanic or latino	female	+	A*29,A*33,B*14,B*44
+HIP12097	NA	NA	male	+	A*29,A*68,B*14,B*44
+HIP13376	14	caucasian,non-hispanic or latino	male	-	A*29,A*29,B*14,B*44
+HIP00761	33	NA	female	+	A*29,A*29,B*44,B*58
+HIP13515	58	NA	male	+	A*30,A*33,B*07,B*35
+HIP14107	40	hispanic or latino	female	+	A*30,A*68,B*13,B*48
+HIP08827	42	caucasian,non-hispanic or latino	male	+	A*31,A*32,B*15,B*62
+HIP04475	55	caucasian,non-hispanic or latino	female	+	A*32,A*33,B*14,B*51
+HIP14205	48	asian or pacific islander,non-hispanic or latino	male	+	A*32,A*34,B*40,B*44
+HIP13877	8	caucasian,non-hispanic or latino	female	-	A*32,A*69,B*35,B*60
+HIP00715	44	NA	male	-	A*32,A*32,B*14,B*60
+HIP14022	36	black or african american,non-hispanic or latino	female	+	A*33,A*68,B*78,B*82
+HIP08805	3	caucasian,non-hispanic or latino	female	-	A*68,A*68,B*07,B*35
+HIP14161	34	caucasian,non-hispanic or latino	female	+	A*68,A*68,B*14,B*44
+HIP13157	31	black or african american,non-hispanic or latino	male	+	A*68,A*68,B*41,B*44
+HIP14000	24	caucasian,non-hispanic or latino	female	-	A*68,A*68,B*51,B*55
+HIP00971	51	NA	female	+	NA
+HIP01091	56	caucasian,non-hispanic or latino	female	+	NA
+HIP01161	21	NA	male	-	NA
+HIP01219	44	NA	female	+	NA
+HIP01253	47	NA	male	-	NA
+HIP01596	48	NA	male	-	NA
+HIP01597	27	NA	male	-	NA
+HIP01765	48	NA	female	+	NA
+HIP02271	54	caucasian,non-hispanic or latino	female	+	NA
+HIP02780	NA	NA	female	-	NA
+HIP02790	11	hispanic or latino	female	+	NA
+HIP03125	46	NA	male	-	NA
+HIP03194	36	caucasian,non-hispanic or latino	female	+	NA
+HIP03197	28	caucasian,non-hispanic or latino	male	-	NA
+HIP03216	48	caucasian,non-hispanic or latino	female	+	NA
+HIP03746	42	NA	male	-	NA
+HIP03814	NA	NA	male	-	NA
+HIP08499	41	NA	male	+	NA
+HIP10507	34	caucasian,non-hispanic or latino	male	+	NA
+HIP10597	27	caucasian,non-hispanic or latino	male	-	NA
+HIP10602	44	caucasian,non-hispanic or latino	female	-	NA
+HIP13245	NA	NA	male	+	NA
+HIP13663	18	caucasian,non-hispanic or latino	male	-	NA
+HIP13699	48	caucasian,non-hispanic or latino	female	+	NA
+HIP13709	23	caucasian,non-hispanic or latino	male	-	NA
+HIP13736	32	caucasian,non-hispanic or latino	male	-	NA
+HIP13741	39	caucasian,non-hispanic or latino	male	-	NA
+HIP13751	44	caucasian,non-hispanic or latino	male	+	NA
+HIP13753	40	caucasian,non-hispanic or latino	female	+	NA
+HIP13754	26	caucasian,non-hispanic or latino	female	-	NA
+HIP13764	5	caucasian,non-hispanic or latino	male	-	NA
+HIP13774	43	caucasian,non-hispanic or latino	female	-	NA
+HIP13793	46	caucasian,non-hispanic or latino	male	+	NA
+HIP13810	39	caucasian,non-hispanic or latino	male	-	NA
+HIP13812	62	caucasian,non-hispanic or latino	male	-	NA
+HIP13823	38	caucasian,non-hispanic or latino	female	-	NA
+HIP13848	31	caucasian,non-hispanic or latino	male	-	NA
+HIP13854	34	NA	male	-	NA
+HIP17440	6	caucasian,non-hispanic or latino	male	-	NA
+HIP17454	45	caucasian,non-hispanic or latino	female	-	NA
+Keck0001_MC1	22	caucasian,non-hispanic or latino	female	+	NA
+Keck0002_MC1	21	caucasian,non-hispanic or latino	female	-	NA
+Keck0003_MC1	25	non-hispanic or latino	female	-	NA
+Keck0004_MC1	24	caucasian,non-hispanic or latino	female	+	NA
+Keck0005_MC1	24	caucasian,non-hispanic or latino	male	-	NA
+Keck0006_MC1	23	caucasian,non-hispanic or latino	male	-	NA
+Keck0007_MC1	22	caucasian,non-hispanic or latino	female	+	NA
+Keck0008_MC1	24	caucasian,non-hispanic or latino	female	-	NA
+Keck0009_MC1	23	caucasian,hispanic or latino	female	+	NA
+Keck0010_MC1	24	caucasian,non-hispanic or latino	female	-	NA
+Keck0011_MC1	24	caucasian,hispanic or latino	male	-	NA
+Keck0012_MC1	25	asian or pacific islander,hispanic or latino	male	-	NA
+Keck0013_MC1	23	caucasian,non-hispanic or latino	male	+	NA
+Keck0014_MC1	19	asian or pacific islander,non-hispanic or latino	female	-	NA
+Keck0015_MC1	20	asian or pacific islander,non-hispanic or latino	male	+	NA
+Keck0016_MC1	22	caucasian,non-hispanic or latino	male	-	NA
+Keck0017_MC1	21	caucasian,non-hispanic or latino	female	-	NA
+Keck0018_MC1	19	asian or pacific islander,non-hispanic or latino	female	+	NA
+Keck0019_MC1	21	caucasian,non-hispanic or latino	female	-	NA
+Keck0020_MC1	20	asian or pacific islander,non-hispanic or latino	female	-	NA
+Keck0021_MC1	26	caucasian,non-hispanic or latino	female	-	NA
+Keck0022_MC1	21	asian or pacific islander,non-hispanic or latino	female	-	NA
+Keck0023_MC1	22	caucasian,non-hispanic or latino	female	+	NA
+Keck0024_MC1	25	caucasian,non-hispanic or latino	male	-	NA
+Keck0025_MC1	22	asian or pacific islander,non-hispanic or latino	male	-	NA
+Keck0026_MC1	19	caucasian,non-hispanic or latino	female	+	NA
+Keck0027_MC1	24	caucasian,hispanic or latino	male	-	NA
+Keck0028_MC1	20	asian or pacific islander,non-hispanic or latino	male	-	NA
+Keck0029_MC1	20	asian or pacific islander,non-hispanic or latino	female	-	NA
+Keck0030_MC1	23	caucasian,non-hispanic or latino	male	+	NA
+Keck0031_MC1	25	caucasian,non-hispanic or latino	female	-	NA
+Keck0032_MC1	22	asian or pacific islander,non-hispanic or latino	male	+	NA
+Keck0033_MC1	24	asian or pacific islander,non-hispanic or latino	female	+	NA
+Keck0034_MC1	21	caucasian,non-hispanic or latino	female	-	NA
+Keck0035_MC1	20	asian or pacific islander,non-hispanic or latino	male	+	NA
+Keck0036_MC1	23	caucasian,non-hispanic or latino	female	-	NA
+Keck0037_MC1	24	caucasian,non-hispanic or latino	male	-	NA
+Keck0038_MC1	21	caucasian,non-hispanic or latino	male	-	NA
+Keck0039_MC1	27	caucasian,non-hispanic or latino	male	-	NA
+Keck0040_MC1	32	caucasian,non-hispanic or latino	female	+	NA
+Keck0041_MC1	27	caucasian,non-hispanic or latino	male	-	NA
+Keck0042_MC1	19	asian or pacific islander,non-hispanic or latino	male	-	NA
+Keck0043_MC1	19	caucasian,non-hispanic or latino	female	+	NA
+Keck0044_MC1	28	asian or pacific islander,non-hispanic or latino	female	+	NA
+Keck0045_MC1	34	caucasian,non-hispanic or latino	female	-	NA
+Keck0046_MC1	27	caucasian,non-hispanic or latino	female	-	NA
+Keck0047_MC1	30	caucasian,non-hispanic or latino	female	-	NA
+Keck0048_MC1	30	caucasian,non-hispanic or latino	male	-	NA
+Keck0049_MC1	27	asian or pacific islander,non-hispanic or latino	female	-	NA
+Keck0050_MC1	25	asian or pacific islander,non-hispanic or latino	male	+	NA
+Keck0051_MC1	31	caucasian,non-hispanic or latino	female	-	NA
+Keck0052_MC1	33	caucasian,non-hispanic or latino	male	+	NA
+Keck0053_MC1	25	caucasian,non-hispanic or latino	female	+	NA
+Keck0054_MC1	33	caucasian,non-hispanic or latino	female	+	NA
+Keck0055_MC1	32	caucasian,non-hispanic or latino	male	+	NA
+Keck0056_MC1	32	caucasian,non-hispanic or latino	male	-	NA
+Keck0057_MC1	32	caucasian,non-hispanic or latino	male	+	NA
+Keck0058_MC1	26	asian or pacific islander,non-hispanic or latino	female	-	NA
+Keck0059_MC1	33	caucasian,non-hispanic or latino	male	+	NA
+Keck0060_MC1	22	caucasian,non-hispanic or latino	male	+	NA
+Keck0061_MC1	22	caucasian,non-hispanic or latino	male	-	NA
+Keck0062_MC1	23	asian or pacific islander,non-hispanic or latino	male	+	NA
+Keck0063_MC1	23	caucasian,non-hispanic or latino	female	-	NA
+Keck0064_MC1	27	caucasian,non-hispanic or latino	female	-	NA
+Keck0065_MC1	27	asian or pacific islander,non-hispanic or latino	female	+	NA
+Keck0066_MC1	35	caucasian,non-hispanic or latino	male	-	NA
+Keck0067_MC1	28	asian or pacific islander,non-hispanic or latino	male	+	NA
+Keck0068_MC1	28	caucasian,non-hispanic or latino	female	+	NA
+Keck0069_MC1	28	caucasian,non-hispanic or latino	female	-	NA
+Keck0070_MC1	23	caucasian,non-hispanic or latino	female	-	NA
+Keck0071_MC1	32	caucasian,non-hispanic or latino	female	-	NA
+Keck0072_MC1	26	caucasian,non-hispanic or latino	male	-	NA
+Keck0073_MC1	24	caucasian,non-hispanic or latino	female	+	NA
+Keck0074_MC1	24	caucasian,non-hispanic or latino	male	-	NA
+Keck0075_MC1	25	asian or pacific islander,non-hispanic or latino	female	+	NA
+Keck0076_MC1	27	asian or pacific islander,non-hispanic or latino	male	+	NA
+Keck0077_MC1	23	caucasian,non-hispanic or latino	male	+	NA
+Keck0078_MC1	23	caucasian,non-hispanic or latino	female	-	NA
+Keck0079_MC1	33	caucasian,non-hispanic or latino	female	-	NA
+Keck0080_MC1	31	caucasian,non-hispanic or latino	female	+	NA
+Keck0081_MC1	28	caucasian,non-hispanic or latino	female	-	NA
+Keck0082_MC1	29	caucasian,non-hispanic or latino	male	+	NA
+Keck0083_MC1	35	caucasian,non-hispanic or latino	female	-	NA
+Keck0084_MC1	34	asian or pacific islander,non-hispanic or latino	female	+	NA
+Keck0085_MC1	30	caucasian,non-hispanic or latino	female	-	NA
+Keck0086_MC1	27	caucasian,non-hispanic or latino	female	-	NA
+Keck0087_MC1	29	caucasian,non-hispanic or latino	male	-	NA
+Keck0088_MC1	25	asian or pacific islander,non-hispanic or latino	female	+	NA
+Keck0089_MC1	34	black or african american,non-hispanic or latino	female	+	NA
+Keck0090_MC1	22	caucasian,non-hispanic or latino	female	+	NA
+Keck0091_MC1	23	black or african american,non-hispanic or latino	male	+	NA
+Keck0092_MC1	21	caucasian,non-hispanic or latino	male	+	NA
+Keck0093_MC1	27	caucasian,non-hispanic or latino	female	-	NA
+Keck0094_MC1	29	caucasian,non-hispanic or latino	male	-	NA
+Keck0095_MC1	34	caucasian,non-hispanic or latino	male	-	NA
+Keck0096_MC1	25	caucasian,non-hispanic or latino	female	+	NA
+Keck0097_MC1	22	asian or pacific islander,non-hispanic or latino	female	-	NA
+Keck0098_MC1	20	caucasian,non-hispanic or latino	female	-	NA
+Keck0099_MC1	22	caucasian,non-hispanic or latino	female	+	NA
+Keck0100_MC1	21	caucasian,non-hispanic or latino	female	-	NA
+Keck0101_MC1	35	caucasian,non-hispanic or latino	female	+	NA
+Keck0102_MC1	32	caucasian,non-hispanic or latino	male	-	NA
+Keck0103_MC1	35	caucasian,non-hispanic or latino	female	-	NA
+Keck0104_MC1	30	caucasian,non-hispanic or latino	female	+	NA
+Keck0105_MC1	32	caucasian,non-hispanic or latino	female	-	NA
+Keck0106_MC1	33	caucasian,non-hispanic or latino	female	-	NA
+Keck0107_MC1	22	black or african american,non-hispanic or latino	female	-	NA
+Keck0108_MC1	29	black or african american,hispanic or latino	female	+	NA
+Keck0109_MC1	23	caucasian,non-hispanic or latino	male	+	NA
+Keck0110_MC1	27	caucasian,non-hispanic or latino	female	+	NA
+Keck0111_MC1	28	caucasian,non-hispanic or latino	female	-	NA
+Keck0112_MC1	28	caucasian,non-hispanic or latino	male	-	NA
+Keck0113_MC1	20	caucasian,non-hispanic or latino	female	-	NA
+Keck0114_MC1	19	caucasian,non-hispanic or latino	female	-	NA
+Keck0115_MC1	25	caucasian,non-hispanic or latino	male	+	NA
+Keck0116_MC1	19	asian or pacific islander,non-hispanic or latino	female	-	NA
+Keck0117_MC1	34	caucasian,non-hispanic or latino	male	+	NA
+Keck0118_MC1	28	caucasian,non-hispanic or latino	male	+	NA
+Keck0119_MC1	24	asian or pacific islander,non-hispanic or latino	female	+	NA
+Keck0120_MC1	26	caucasian,non-hispanic or latino	female	-	NA
